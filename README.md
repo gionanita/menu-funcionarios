@@ -23,7 +23,5 @@ O sistema oferece as seguintes operações:
 3. Compile e execute o código.
 4. Utilize o menu numérico para navegar entre as funções.
 
----
-**Desenvolvido por:** Giovana Lima dos Santos  
 **Turma:** ADS - 3º Semestre  
-**Instituição:** IFSP - Campus Cubatão
+**Instituição:** IFSP - Campus Cubat
