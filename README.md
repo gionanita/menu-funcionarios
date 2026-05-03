@@ -22,6 +22,3 @@ O sistema oferece as seguintes operações:
 2. Abra o arquivo em uma IDE (como o Dev-C++).
 3. Compile e execute o código.
 4. Utilize o menu numérico para navegar entre as funções.
-
-**Turma:** ADS - 3º Semestre  
-**Instituição:** IFSP - Campus Cubat
